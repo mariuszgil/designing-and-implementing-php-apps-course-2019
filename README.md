@@ -42,7 +42,7 @@ Zajęcia odbywać się będą cyklicznie, zgodnie z informacjami w Systemie Zapi
     
 ## Listy zadań
 
-TBD
+- [Zadanie 1, Cipher](exercises/01-cipher.md)
 
 
 ## Notatki z wykładów
