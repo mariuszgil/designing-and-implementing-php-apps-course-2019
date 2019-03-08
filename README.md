@@ -43,6 +43,7 @@ Zajęcia odbywać się będą cyklicznie, zgodnie z informacjami w Systemie Zapi
 ## Listy zadań
 
 - [Zadanie 1, Cipher](exercises/01-cipher.md)
+- [Zadanie 2, Numbers](exercises/02-numbers.md)
 
 
 ## Notatki z wykładów
@@ -50,6 +51,7 @@ Zajęcia odbywać się będą cyklicznie, zgodnie z informacjami w Systemie Zapi
 Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materiałów uzupełniających
 
 - [Wykład 1, Podstawy języka PHP, wprowadzenie do ekosystemu](notes/lectures/01-php-intro.md)
+- [Wykład 1, Obiektowość, część 1](notes/lectures/02-objects.md)
 
 
 ## Literatura
