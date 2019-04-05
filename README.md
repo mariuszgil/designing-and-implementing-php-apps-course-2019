@@ -45,6 +45,7 @@ Zajęcia odbywać się będą cyklicznie, zgodnie z informacjami w Systemie Zapi
 - [Zadanie 1, Cipher](exercises/01-cipher.md)
 - [Zadanie 2, Numbers](exercises/02-numbers.md)
 - [Zadanie 3, Students](exercises/03-students.md)
+- [Zadanie 4 + 5, Acc43ounts](exercises/04-05-accounts.md), ze względu na zagadnienia, 2 listy zostały połączone w jedno zadanie
 
 
 ## Notatki z wykładów
@@ -54,6 +55,8 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 1, Podstawy języka PHP, wprowadzenie do ekosystemu](notes/lectures/01-php-intro.md)
 - [Wykład 2, Obiektowość, część 1](notes/lectures/02-objects.md)
 - [Wykład 3, Obiektowość, część 2](notes/lectures/03-objects-continued.md)
+- [Wykład 4, HTTP Flow](notes/lectures/04-http-flow.md)
+- [Wykład 5, Szablony](notes/lectures/05-templates.md)
 
 
 ## Literatura
