@@ -4,7 +4,7 @@
 
 ### Zakres:
 
-![Piramida testów](/notes/lectures/assets/06-testing/test-pyramind.png)
+![Piramida testów](/notes/lectures/assets/06-testing/test-pyramid.png)
 
 - Wprowadzenie do testowania
     - Rodzaje i strategie testowania
