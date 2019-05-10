@@ -59,6 +59,8 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 4, HTTP Flow](notes/lectures/04-http-flow.md)
 - [Wykład 5, Szablony](notes/lectures/05-templates.md)
 - [Wykład 6, Test Driven Development](notes/lectures/06-tdd.md)
+- [Wykład 7, Modelowanie zdarzeniowe](notes/lectures/07-domain-modeling-events.md)
+- [Wykład 8, Modelowanie z wykorzystaniem EventStormingu](notes/lectures/08-domain-modeling-event-storming.md)
 
 
 ## Literatura
