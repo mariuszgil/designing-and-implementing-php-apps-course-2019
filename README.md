@@ -45,9 +45,13 @@ Zajęcia odbywać się będą cyklicznie, zgodnie z informacjami w Systemie Zapi
 - [Zadanie 1, Cipher](exercises/01-cipher.md)
 - [Zadanie 2, Numbers](exercises/02-numbers.md)
 - [Zadanie 3, Students](exercises/03-students.md)
-- [Zadanie 4 + 5, Accounts](exercises/04-05-accounts.md), ze względu na zagadnienia, 2 listy zostały połączone w jedno zadanie
-- [Zadanie 6, Pager](exercises/06-pager.md), UWAGA! Zadanie posiada rozszerzenie, za które można uzyskać dodatkowe punkty
-
+- [Zadanie 4 + 5, Accounts](exercises/04-05-accounts.md)
+    - Ze względu na zagadnienia, 2 listy zostały połączone w jedno zadanie
+- [Zadanie 6, Pager](exercises/06-pager.md)
+    - UWAGA! Zadanie posiada rozszerzenie, za które można uzyskać dodatkowe punkty
+- [Zadanie 7 + 8, Commands Bus + Financial Commitment](exercises/07-08-intro.md)
+    - Ze względu na zagadnienia, 2 listy zostały połączone
+    - UWAGA! Zadanie posiada rozszerzenie, za które można uzyskać dodatkowe punkty
 
 ## Notatki z wykładów
 
