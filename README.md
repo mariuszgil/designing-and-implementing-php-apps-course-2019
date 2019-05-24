@@ -65,6 +65,7 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 6, Test Driven Development](notes/lectures/06-tdd.md)
 - [Wykład 7, Modelowanie zdarzeniowe](notes/lectures/07-domain-modeling-events.md)
 - [Wykład 8, Modelowanie z wykorzystaniem EventStormingu](notes/lectures/08-domain-modeling-event-storming.md)
+- [Wykład 9, Modelowanie, integracja](notes/lectures/09-modeling-integration.md)
 
 
 ## Literatura
