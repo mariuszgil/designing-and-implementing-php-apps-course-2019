@@ -1,6 +1,6 @@
 # Projektowanie i implementacja zaawansowanych aplikacji PHP
 
-## Wykład 1: Bazy danych
+## Wykład 10: Bazy danych
 
 ### Zakres:
 
