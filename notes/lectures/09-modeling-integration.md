@@ -26,6 +26,9 @@
             - Odbiorca zwraca przez szynę dane do nadawcy 
 - Hexagonal Architecture, a.k.a. Ports & Adapters Architecture
     - "Allow an application to equally be driven by users, programs, automated test or batch scripts, and to be developed and tested in isolation from its eventual run-time devices and databases." - Alistair Cockburn
+- Saga
+    - Koncept długotrwałej transakcji biznesowej (Long Lived Business Transaction), która może rozpinac się przez wiele systemów i w czasie
+    - Paper Hectora Moliny Garcia
 
 ### Hexagonal Architecture
 

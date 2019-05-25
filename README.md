@@ -52,6 +52,7 @@ Zajęcia odbywać się będą cyklicznie, zgodnie z informacjami w Systemie Zapi
 - [Zadanie 7 + 8, Commands Bus + Financial Commitment](exercises/07-08-intro.md)
     - Ze względu na zagadnienia, 2 listy zostały połączone
     - UWAGA! Zadanie posiada rozszerzenie, za które można uzyskać dodatkowe punkty
+- [Zadanie 9, Database repository](exercises/09-database-repository.md)
 
 ## Notatki z wykładów
 
