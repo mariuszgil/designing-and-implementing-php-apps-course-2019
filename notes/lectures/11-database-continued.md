@@ -98,4 +98,5 @@
 - [Partycjonowanie danych w MySQL](https://dev.mysql.com/doc/refman/8.0/en/partitioning.html)
 - [Partycjonowanie danych w PostgreSQL](https://www.postgresql.org/docs/10/static/ddl-partitioning.html)
 - [Percona Toolkit](https://www.percona.com/software/database-tools/percona-toolkit)
-  - [pt-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html)
+  - [Narzędzie pt-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html)
+- [MySQL Tuner](http://mysqltuner.com)
