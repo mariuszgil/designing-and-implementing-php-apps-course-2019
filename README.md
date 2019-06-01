@@ -55,7 +55,7 @@ Zajęcia odbywać się będą cyklicznie, zgodnie z informacjami w Systemie Zapi
     - Ze względu na zagadnienia, 2 listy zostały połączone
     - UWAGA! Zadanie posiada rozszerzenie, za które można uzyskać dodatkowe punkty
 - [Zadanie 9, Database repository](exercises/09-database-repository.md)
-- [Zadani 10, Data partitioning](exercises/10-database-performance)
+- [Zadanie 10, Data partitioning](exercises/10-database-performance.md)
 
 ## Notatki z wykładów
 
