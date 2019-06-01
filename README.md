@@ -42,6 +42,8 @@ Zajęcia odbywać się będą cyklicznie, zgodnie z informacjami w Systemie Zapi
     
 ## Listy zadań
 
+**Uwaga!** Osoby, które zalegają z zadaniami z pracowni proszę o kontakt.
+
 - [Zadanie 1, Cipher](exercises/01-cipher.md)
 - [Zadanie 2, Numbers](exercises/02-numbers.md)
 - [Zadanie 3, Students](exercises/03-students.md)
@@ -53,6 +55,7 @@ Zajęcia odbywać się będą cyklicznie, zgodnie z informacjami w Systemie Zapi
     - Ze względu na zagadnienia, 2 listy zostały połączone
     - UWAGA! Zadanie posiada rozszerzenie, za które można uzyskać dodatkowe punkty
 - [Zadanie 9, Database repository](exercises/09-database-repository.md)
+- [Zadani 10, Data partitioning](exercises/10-database-performance)
 
 ## Notatki z wykładów
 
@@ -67,7 +70,8 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 7, Modelowanie zdarzeniowe](notes/lectures/07-domain-modeling-events.md)
 - [Wykład 8, Modelowanie z wykorzystaniem EventStormingu](notes/lectures/08-domain-modeling-event-storming.md)
 - [Wykład 9, Modelowanie, integracja](notes/lectures/09-modeling-integration.md)
-- [Wykład 10, Bazy danych](notes/lectures/10-database.md)
+- [Wykład 10, Bazy danych, część 1](notes/lectures/10-database.md)
+- [Wykład 11, Bazy danych, część 2](notes/lectures/11-database-continued.md)
 
 
 ## Literatura
