@@ -56,6 +56,7 @@ Zajęcia odbywać się będą cyklicznie, zgodnie z informacjami w Systemie Zapi
     - UWAGA! Zadanie posiada rozszerzenie, za które można uzyskać dodatkowe punkty
 - [Zadanie 9, Database repository](exercises/09-database-repository.md)
 - [Zadanie 10, Data partitioning](exercises/10-database-performance.md)
+- [Zadanie 11, Symfony Console](exercises/11-console-app.md) (ostatnie)
 
 ## Notatki z wykładów
 
