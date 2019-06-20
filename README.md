@@ -73,7 +73,8 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 9, Modelowanie, integracja](notes/lectures/09-modeling-integration.md)
 - [Wykład 10, Bazy danych, część 1](notes/lectures/10-database.md)
 - [Wykład 11, Bazy danych, część 2](notes/lectures/11-database-continued.md)
-
+- [Wykład 12, Wydajność i skalowalność](notes/lectures/12-performance-and-scalability.md)
+- [Wykład 13, Deployment aplikacji](notes/lectures/13-deployment.md)
 
 ## Literatura
 
